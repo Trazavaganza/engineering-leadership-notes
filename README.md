@@ -13,13 +13,13 @@ Leadership READMEs seem weird at first but they make perfect sense. In tech, mos
 # My role
 You may report to me, but I am not your superior. We are teammates, I am a team member with a particular role, and a lot of my job is to serve you. I'm not as successful as I can be if you are not as successful as you can be. I want that for you. I want you to have success in your work life, your home life, and your career. To do that, I need to create the best environment that I can to ensure your success. This means that ideally I fill the following roles:
 
-* As an ambassador for our team and the engineering team in general. I always need to ensure that our efforts are aligned with other teams and that we are all serving our mutual goals effectively.
-* As a mentor. I don't profess to have all the answers, but I do have the benefit of having made plenty of mistakes, and it's likely that you can benefit from some of those.
-* As an unblocker of your work. I think this goes without saying, but I need to remove obstacles that get in your way.
-* As someone who holds us all accountable. This is really about focus and making sure that the wheels stay on the cart.
-* As an example. I will strive to be open, conscientious and focused. I will also fail at this from time to time but I will persevere in this.
-* As an advocate for good decisions. I believe all opinions should be heard and respected but I also know most of even the best decisions are compromises. I like decisions that are driven by data and known best practices but I also see the value in ideas that are truly disruptive.
-* As an advocate for **you**. I want to help you grow, succeed, and find opportunities to excel.
+* **As an ambassador for our team and the engineering team in general.** I always need to ensure that our efforts are aligned with other teams and that we are all serving our mutual goals effectively.
+* **As a mentor.** I don't profess to have all the answers, but I do have the benefit of having made plenty of mistakes, and it's likely that you can benefit from some of those.
+* **As an unblocker of your work.** I think this goes without saying, but I need to remove obstacles that get in your way.
+* **As someone who holds us all accountable.** This is really about focus and making sure that the wheels stay on the cart.
+* **As an example.** I will strive to be open, conscientious and focused. I will also fail at this from time to time but I will persevere in this.
+* **As an advocate for good decisions.** I believe all opinions should be heard and respected but I also know most of even the best decisions are compromises. I like decisions that are driven by data and known best practices but I also see the value in ideas that are truly disruptive.
+* **As an advocate for you**. I want to help you grow, succeed, and find opportunities to excel.
 
 # What I value most
 Empathy.  There are a lot of related terms that also matter--kindness, compassion, respect, to name a few--but empathy is at the heart of it all. Always consider how other people feel or will feel, both as a result of your own actions and in general.
